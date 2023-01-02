@@ -1,8 +1,3 @@
-# plotters-backend - The base crate for implementing a backend for Plotters
-
-This is a part of plotters project. For more details, please check the following links:
-
-- For high-level intro of Plotters, see: [Plotters on crates.io](https://crates.io/crates/plotters)
-- Check the main repo at [Plotters repo](https://github.com/38/plotters.git)
-- For detailed documentation about this crate, check [plotters-backend on docs.rs](https://docs.rs/plotters-backend/)
-- You can also visit Plotters [Homepage](https://plotters-rs.github.io)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d9372b48b87b1791b1ceed9bfacdef188fe0460c52e02cf59cc349c091054e0
+size 533

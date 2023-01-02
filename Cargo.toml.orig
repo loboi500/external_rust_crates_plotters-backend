@@ -1,14 +1,3 @@
-[package]
-name = "plotters-backend"
-version = "0.3.0"
-authors = ["Hao Hou <haohou302@gmail.com>"]
-edition = "2018"
-license = "MIT"
-description = "Plotters Backend API"
-homepage = "https://plotters-rs.github.io"
-repository = "https://github.com/plotters-rs/plotters-backend"
-readme = "README.md"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+version https://git-lfs.github.com/spec/v1
+oid sha256:069eb750dbce254aeccdf8f5385125f857bc5cbb1bbe2fba2781b18c90c97650
+size 409
